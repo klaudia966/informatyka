@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+<meta charset="utf-8"/>
+<title>praca na informatyke</title>
+<meta name="description" content="Spis moich ulubionych miejsc.Zdjecia z archiwum prywatnego"/>
+<meta name="keywords" content="szwecja, wakacje, najlepsze miejsca"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<link rel=:stylesheet" href="style.css"
+npm init gatsby
+
+cd gatsby-site
+
+
+
+npm run develop
+
+</head>
+
+
+<body bgcolor="black">
+<font size="4"><font color="white">Klaudia<br> 
+2E<hr>
+<meta http-equiv="content-type" content="text/html ; charset=windows-1250" >
+
+
+<h1><font size="6">Zestawienie moich ulubionych miejsc, do których chętnie wracam lub wrócę. </h1>
+<h2><font size="5">Poniżej zestawione są miejsca zarówno z Polski jak i innych krajów.</h2>
+<font size="4"> <p aling="justify" >Poniższe zestawienie jest w kolejności losowej:</p>
+<ul type="circle">
+       <font size="5"> <li><a href="https://pl.wikipedia.org/wiki/Karlskrona" target="_blank" title="zobacz informacje w wikipedi">Karlskrona </a></li><br/>
+<img src="img/szwecja.jpg" width="400px' height="200px"/>
+<img src="img/szwecja1.jpg" width="320px' height="200px"/>
+<img src="img/szwecja2.jpg" width="320px' height="200px"/>
+<pre><font size="4">Na powyższych zdjęciach jest Karlskrona. NIestety przez zaistniałą sytuacje nie miałam okazji powrotu do tego pięknego miejsca, aczkolwiek chetnie to zrobie gdy powrócimy do "normalnosci". </pre>
+       <font size="5"> <li><a href="https://pl.tripadvisor.com/Attractions-g2423109-Activities-c57-t57-Swietokrzyskie_Province_Central_Poland.html" target="_blank" title="zobacz ranking lasów Świętokrzyskich">lasy </a></li><br/>
+<img src="img/las1.jpg" width="300px' height="200px"/>
+<img src="img/las2.jpg" width="300px' height="200px"/>
+<img src="img/las3.jpg" width="300px' height="200px"/><br/>
+<img src="img/las4.jpg" width="300px' height="200px"/>
+<img src="img/las5.jpg" width="400px' height="200px"/>
+<img src="img/las6.jpg" width="300px' height="200px"/>
+<pre><font size="4">Powyżej umieściłam moja kolekcję zdjeć, które zostały zrobione podczas spacerów z psem po lesie. Są to rózne lasy z naszego województwa.</pre>
+        <font size="5"> <li><a href="https://pl.wikipedia.org/wiki/Łeba" target="_blank" title="zobacz informacje w wikipedi">Łeba </a></li><br/>
+<img src="img/łeba.jpeg" width="340px' height="200px"/>
+<img src="img/łeba1.jpeg" width="405px' height="200px"/>
+<pre><font size="4">Łeba moim zdaniem jest najlepszym kurortem nadmorskim w Polsce. Jest wspaniałym rozwiązaniem, zwłaszcza jeżeli chodzi o obecne czasy.Ja niestety od paru lat nie miałam okazji tam się pojawić, <br/>natomiast byłam tam wielokrotnie i chętnie wrócę. </pre>
+ <font size="5"> <li><a href="https://pl.wikipedia.org/wiki/Praga" target="_blank" title="zobacz informacje w wikipedi">Praga </a></li><br/>
+<img src="img/czechy3.jpg" width="350px' height="200px"/>
+<img src="img/czechy4.jpg" width="350px' height="200px"/>
+<img src="img/czechy5.jpg" width="200px' height="200px"/><br/>
+<img src="img/czechy6.jpg" width="350px' height="200px"/>
+<img src="img/czechy7.jpg" width="350px' height="200px"/>
+<img src="img/czechy8.jpg" width="350px' height="200px"/>
+<pre><font size="4">Do Pragi miałam okazję powrotu po 10 latach i wspaniałym doświadczeniem było porównanie miejsc, które pamiętałam z albumów rodzinnych z miejscami na żywo,<br/> oraz mozliwośc zaobserwowania zmian zarówno moich jak i tego pięknego miejsca. </pre>
+        <font size="5"> <li><a href="https://pl.wikipedia.org/wiki/Koblencja" target="_blank" title="zobacz informacje w wikipedi">Koblenz </a></li><br/>
+<img src="img/niemcy3.jpg" width="320px' height="200px"/>
+<img src="img/niemcy1.jpg" width="320px' height="200px"/>
+<img src="img/niemcy2.jpg" width="320px' height="200px"/>
+<pre><font size="4">Do Koblenz miałam okazję udać się już drugi rok pod rząd, urzekło mnie swoim wyglądem. Dużym ułatwieniem jest też język przez co funkcjonowanie tam jest łatwiejsze.  </pre>
+</ul><br/>
+ 
+<font size="5"><p> Podsumowywując każde z tych miejsc jest wspaniałe na swój sposób i do każdego chętnie wróce jeszcze wiele razy.</p>
+<font size="3"><p style="color:yellow">Serdecznie zachęcam do osobistego odwiedzenia tych miejsc, poniewaz uważam, że naprawde warto!</p>
+
+</html>
